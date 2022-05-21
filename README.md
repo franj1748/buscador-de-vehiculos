@@ -17,7 +17,7 @@ Los archivos dentro de la carpeta en la ruta `src/js` son:
 * `functions.js`: Contiene todas las funciones requeridas para el funcionemiento de la app.
 * `db.js`: Este archivo contiene una pequeña base de datos para poder trabajar sobre sus valores. No se consume esta información desde Internet para no agregarle complejidad al proyecto puesto que no es el objetivo principal. 
 
-Pruebe el buscador desde aquí: 
+Pruebe el buscador desde aquí: https://franj1748.github.io/buscador-de-vehiculos/
 
 ![buscador_vehículos](https://accesoweb.online/images/buscador_filtros/buscador_multiple.png)
 
